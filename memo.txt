@@ -1,0 +1,14 @@
+# JavaScriptでモーダルウィンドウ実装の仕方
+https://qiita.com/naoki1218shirota/items/4e082752cfc989e59c76
+
+# モーダルウィンドウ作成の考え方
+https://qiita.com/bibouroku/items/4f1f01a71a2cb19cb8fa
+
+# z-indexとは
+  ボックスの重なりを指定するプロパティ
+
+# transitionプロパティ
+  transition効果(時間的変化)をまとめて指定する際に使用する
+
+# 【CSS3】Transition（変化）関連のまとめ
+  https://qiita.com/7968/items/812d6a21fc4dd9ae9c75
